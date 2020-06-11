@@ -1,0 +1,714 @@
+ruspini.txt  4.0 100.0 0.001 100.0
+
+Cent 4.0
+
+Run 1
+-------
+Iteration 1: obj = 363878.0 delta obj = 363877.0
+Iteration 2: obj = 102039.66199773244 delta obj = 0.7195772704100483
+Iteration 3: obj = 64326.482463573666 delta obj = 0.36959334043067343
+Iteration 4: obj = 51155.40833333335 delta obj = 0.20475352647642034
+Iteration 5: obj = 51155.40833333335 delta obj = 0.0
+
+Run 2
+-------
+Iteration 1: obj = 147610.0 delta obj = 1.8855209020747064
+Iteration 2: obj = 51155.40833333335 delta obj = 0.653442122259106
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 3
+-------
+Iteration 1: obj = 76190.0 delta obj = 0.4893830873861655
+Iteration 2: obj = 51155.40833333335 delta obj = 0.3285810692566827
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 4
+-------
+Iteration 1: obj = 140656.0 delta obj = 1.749582196343201
+Iteration 2: obj = 51155.40833333335 delta obj = 0.6363083812042618
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 5
+-------
+Iteration 1: obj = 243527.0 delta obj = 3.7605328143049053
+Iteration 2: obj = 72742.37630854 delta obj = 0.7012964627801435
+Iteration 3: obj = 51155.40833333335 delta obj = 0.2967591804211148
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 6
+-------
+Iteration 1: obj = 397434.0 delta obj = 6.769149205305595
+Iteration 2: obj = 119470.5125898113 delta obj = 0.6993953396291931
+Iteration 3: obj = 50034.86284722221 delta obj = 0.5811948759355262
+Iteration 4: obj = 13345.242577777779 delta obj = 0.733281120035714
+Iteration 5: obj = 12881.05123614663 delta obj = 0.0347832824263615
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 7
+-------
+Iteration 1: obj = 396161.0 delta obj = 29.755331435084926
+Iteration 2: obj = 125736.0382102939 delta obj = 0.6826137903269279
+Iteration 3: obj = 40364.553389355744 delta obj = 0.6789738728538122
+Iteration 4: obj = 12881.05123614663 delta obj = 0.680882106835266
+Iteration 5: obj = 12881.05123614663 delta obj = 0.0
+
+Run 8
+-------
+Iteration 1: obj = 102878.0 delta obj = 6.986770498304142
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5027565822300847
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 9
+-------
+Iteration 1: obj = 128444.0 delta obj = 1.5108586596171234
+Iteration 2: obj = 51155.40833333335 delta obj = 0.6017298719026708
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 10
+-------
+Iteration 1: obj = 399563.0 delta obj = 6.81076748320355
+Iteration 2: obj = 106019.06601796942 delta obj = 0.7346624536857281
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5541350422776248
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 11
+-------
+Iteration 1: obj = 86728.0 delta obj = 5.7329908413550195
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4101627117732065
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 12
+-------
+Iteration 1: obj = 87736.0 delta obj = 0.7150874728299332
+Iteration 2: obj = 51155.40833333335 delta obj = 0.41693935974590424
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 13
+-------
+Iteration 1: obj = 71110.0 delta obj = 0.3900778493769554
+Iteration 2: obj = 51155.40833333335 delta obj = 0.2806158299348425
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 14
+-------
+Iteration 1: obj = 71110.0 delta obj = 0.3900778493769554
+Iteration 2: obj = 51155.40833333335 delta obj = 0.2806158299348425
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 15
+-------
+Iteration 1: obj = 397434.0 delta obj = 6.769149205305595
+Iteration 2: obj = 119470.5125898113 delta obj = 0.6993953396291931
+Iteration 3: obj = 50034.86284722221 delta obj = 0.5811948759355262
+Iteration 4: obj = 13345.242577777779 delta obj = 0.733281120035714
+Iteration 5: obj = 12881.05123614663 delta obj = 0.0347832824263615
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 16
+-------
+Iteration 1: obj = 163520.0 delta obj = 11.694616068378986
+Iteration 2: obj = 51155.40833333335 delta obj = 0.687161152560339
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 17
+-------
+Iteration 1: obj = 317792.0 delta obj = 5.212285471933644
+Iteration 2: obj = 113460.38883629191 delta obj = 0.6429727971871794
+Iteration 3: obj = 68181.79981634526 delta obj = 0.39906957383406794
+Iteration 4: obj = 52556.4716761399 delta obj = 0.22917154111938662
+Iteration 5: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 6: obj = 51155.40833333335 delta obj = 0.0
+
+Run 18
+-------
+Iteration 1: obj = 243527.0 delta obj = 3.7605328143049053
+Iteration 2: obj = 72742.37630854 delta obj = 0.7012964627801435
+Iteration 3: obj = 51155.40833333335 delta obj = 0.2967591804211148
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 19
+-------
+Iteration 1: obj = 243527.0 delta obj = 3.7605328143049053
+Iteration 2: obj = 72742.37630854 delta obj = 0.7012964627801435
+Iteration 3: obj = 51155.40833333335 delta obj = 0.2967591804211148
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 20
+-------
+Iteration 1: obj = 128444.0 delta obj = 1.5108586596171234
+Iteration 2: obj = 51155.40833333335 delta obj = 0.6017298719026708
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 21
+-------
+Iteration 1: obj = 127775.0 delta obj = 1.4977808635092176
+Iteration 2: obj = 54007.24205286369 delta obj = 0.5773254388349545
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 22
+-------
+Iteration 1: obj = 113924.0 delta obj = 1.2270177037325307
+Iteration 2: obj = 52556.4716761399 delta obj = 0.5386707658075568
+Iteration 3: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 23
+-------
+Iteration 1: obj = 102686.0 delta obj = 1.0073341870499513
+Iteration 2: obj = 54007.24205286369 delta obj = 0.4740544762395683
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 24
+-------
+Iteration 1: obj = 107462.0 delta obj = 1.1006967493987678
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5239674644680599
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 25
+-------
+Iteration 1: obj = 174052.0 delta obj = 2.4024163948777644
+Iteration 2: obj = 51155.40833333335 delta obj = 0.7060912351864193
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 26
+-------
+Iteration 1: obj = 270436.0 delta obj = 4.2865573516257385
+Iteration 2: obj = 88378.00651543218 delta obj = 0.6732017685684147
+Iteration 3: obj = 51155.40833333335 delta obj = 0.4211749014230049
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 27
+-------
+Iteration 1: obj = 63634.0 delta obj = 0.24393494399174767
+Iteration 2: obj = 51155.40833333335 delta obj = 0.19609943845533287
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 28
+-------
+Iteration 1: obj = 174052.0 delta obj = 2.4024163948777644
+Iteration 2: obj = 51155.40833333335 delta obj = 0.7060912351864193
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 29
+-------
+Iteration 1: obj = 341556.0 delta obj = 5.676830683754681
+Iteration 2: obj = 112727.12230245749 delta obj = 0.66996005837269
+Iteration 3: obj = 68181.79981634526 delta obj = 0.39516064613618834
+Iteration 4: obj = 52556.4716761399 delta obj = 0.22917154111938662
+Iteration 5: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 6: obj = 51155.40833333335 delta obj = 0.0
+
+Run 30
+-------
+Iteration 1: obj = 102686.0 delta obj = 1.0073341870499513
+Iteration 2: obj = 54007.24205286369 delta obj = 0.4740544762395683
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 31
+-------
+Iteration 1: obj = 174052.0 delta obj = 2.4024163948777644
+Iteration 2: obj = 51155.40833333335 delta obj = 0.7060912351864193
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 32
+-------
+Iteration 1: obj = 399557.0 delta obj = 6.810650193552358
+Iteration 2: obj = 112747.70210333215 delta obj = 0.7178182284296555
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5807436825227268
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 33
+-------
+Iteration 1: obj = 120260.0 delta obj = 8.336194522891738
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5746265729807637
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 34
+-------
+Iteration 1: obj = 86554.0 delta obj = 0.6919814115451132
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4089769585075982
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 35
+-------
+Iteration 1: obj = 122235.0 delta obj = 1.3894834189086223
+Iteration 2: obj = 54007.24205286369 delta obj = 0.5581687564702116
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 36
+-------
+Iteration 1: obj = 116192.0 delta obj = 1.2713531918830994
+Iteration 2: obj = 54007.24205286369 delta obj = 0.535189668369047
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 37
+-------
+Iteration 1: obj = 103224.0 delta obj = 1.0178511591068322
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5044233091787438
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 38
+-------
+Iteration 1: obj = 113924.0 delta obj = 1.2270177037325307
+Iteration 2: obj = 52556.4716761399 delta obj = 0.5386707658075568
+Iteration 3: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 39
+-------
+Iteration 1: obj = 399341.0 delta obj = 6.806427766109447
+Iteration 2: obj = 96819.58796199579 delta obj = 0.7575515963499971
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5117704239102688
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 40
+-------
+Iteration 1: obj = 102878.0 delta obj = 6.986770498304142
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5027565822300847
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 41
+-------
+Iteration 1: obj = 126358.0 delta obj = 1.4700809575527116
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5951549697420555
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 42
+-------
+Iteration 1: obj = 109920.0 delta obj = 1.1487464098370825
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5346123696021348
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 43
+-------
+Iteration 1: obj = 99832.0 delta obj = 0.9515434096329659
+Iteration 2: obj = 52556.4716761399 delta obj = 0.4735508486643571
+Iteration 3: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 44
+-------
+Iteration 1: obj = 111070.0 delta obj = 1.1712269263155455
+Iteration 2: obj = 51155.40833333335 delta obj = 0.539430914438342
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 45
+-------
+Iteration 1: obj = 109920.0 delta obj = 1.1487464098370825
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5346123696021348
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 46
+-------
+Iteration 1: obj = 99022.0 delta obj = 0.9357093067220486
+Iteration 2: obj = 51155.40833333335 delta obj = 0.48339350514700424
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 47
+-------
+Iteration 1: obj = 286770.0 delta obj = 4.605858878720707
+Iteration 2: obj = 103904.79394912762 delta obj = 0.6376720230528731
+Iteration 3: obj = 64326.482463573666 delta obj = 0.3809093881166996
+Iteration 4: obj = 51155.40833333335 delta obj = 0.20475352647642034
+Iteration 5: obj = 51155.40833333335 delta obj = 0.0
+
+Run 48
+-------
+Iteration 1: obj = 102004.0 delta obj = 0.9940022633644628
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4984960557102334
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 49
+-------
+Iteration 1: obj = 113924.0 delta obj = 1.2270177037325307
+Iteration 2: obj = 52556.4716761399 delta obj = 0.5386707658075568
+Iteration 3: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 50
+-------
+Iteration 1: obj = 264556.0 delta obj = 4.171613493457598
+Iteration 2: obj = 76027.77057823133 delta obj = 0.7126212575854212
+Iteration 3: obj = 51155.40833333335 delta obj = 0.32714838348843506
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 51
+-------
+Iteration 1: obj = 118919.0 delta obj = 1.3246613383498544
+Iteration 2: obj = 54007.24205286369 delta obj = 0.5458485014769408
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 52
+-------
+Iteration 1: obj = 398851.0 delta obj = 6.796849111262102
+Iteration 2: obj = 91833.66445591177 delta obj = 0.7697544585423836
+Iteration 3: obj = 47270.186387867645 delta obj = 0.48526298424515674
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 53
+-------
+Iteration 1: obj = 128444.0 delta obj = 8.971546393633014
+Iteration 2: obj = 51155.40833333335 delta obj = 0.6017298719026708
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 54
+-------
+Iteration 1: obj = 399284.0 delta obj = 6.805313514423123
+Iteration 2: obj = 87938.65165242043 delta obj = 0.779759139729064
+Iteration 3: obj = 47270.186387867645 delta obj = 0.46246405306844873
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 55
+-------
+Iteration 1: obj = 120260.0 delta obj = 8.336194522891738
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5746265729807637
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 56
+-------
+Iteration 1: obj = 243527.0 delta obj = 3.7605328143049053
+Iteration 2: obj = 72742.37630854 delta obj = 0.7012964627801435
+Iteration 3: obj = 51155.40833333335 delta obj = 0.2967591804211148
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 57
+-------
+Iteration 1: obj = 401099.0 delta obj = 6.840793633908697
+Iteration 2: obj = 165445.8318759718 delta obj = 0.5875187126470727
+Iteration 3: obj = 122461.42585034009 delta obj = 0.2598095433305048
+Iteration 4: obj = 58605.92137952142 delta obj = 0.5214336190145
+Iteration 5: obj = 51063.47504567042 delta obj = 0.12869768372051466
+Iteration 6: obj = 51063.47504567042 delta obj = 0.0
+
+Run 58
+-------
+Iteration 1: obj = 102878.0 delta obj = 1.0147081628891772
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5027565822300847
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 59
+-------
+Iteration 1: obj = 251003.0 delta obj = 3.9066757196901127
+Iteration 2: obj = 79427.7256816665 delta obj = 0.683558659929696
+Iteration 3: obj = 51558.4947968031 delta obj = 0.3508753479428428
+Iteration 4: obj = 51155.40833333335 delta obj = 0.007818041722481463
+Iteration 5: obj = 51155.40833333335 delta obj = 0.0
+
+Run 60
+-------
+Iteration 1: obj = 87736.0 delta obj = 0.7150874728299332
+Iteration 2: obj = 51155.40833333335 delta obj = 0.41693935974590424
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 61
+-------
+Iteration 1: obj = 270436.0 delta obj = 4.2865573516257385
+Iteration 2: obj = 88378.00651543218 delta obj = 0.6732017685684147
+Iteration 3: obj = 51155.40833333335 delta obj = 0.4211749014230049
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 62
+-------
+Iteration 1: obj = 399130.0 delta obj = 6.802303080042528
+Iteration 2: obj = 110438.39035255037 delta obj = 0.7233022064175824
+Iteration 3: obj = 49413.85949598162 delta obj = 0.5525662829905552
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7351074951447635
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 63
+-------
+Iteration 1: obj = 396161.0 delta obj = 29.755331435084926
+Iteration 2: obj = 125736.0382102939 delta obj = 0.6826137903269279
+Iteration 3: obj = 40364.553389355744 delta obj = 0.6789738728538122
+Iteration 4: obj = 12881.05123614663 delta obj = 0.680882106835266
+Iteration 5: obj = 12881.05123614663 delta obj = 0.0
+
+Run 64
+-------
+Iteration 1: obj = 399130.0 delta obj = 29.985825045083807
+Iteration 2: obj = 110438.39035255037 delta obj = 0.7233022064175824
+Iteration 3: obj = 49413.85949598162 delta obj = 0.5525662829905552
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7351074951447635
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 65
+-------
+Iteration 1: obj = 243527.0 delta obj = 17.905832725563414
+Iteration 2: obj = 72742.37630854 delta obj = 0.7012964627801435
+Iteration 3: obj = 51155.40833333335 delta obj = 0.2967591804211148
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 66
+-------
+Iteration 1: obj = 397434.0 delta obj = 6.769149205305595
+Iteration 2: obj = 119470.5125898113 delta obj = 0.6993953396291931
+Iteration 3: obj = 50034.86284722221 delta obj = 0.5811948759355262
+Iteration 4: obj = 13345.242577777779 delta obj = 0.733281120035714
+Iteration 5: obj = 12881.05123614663 delta obj = 0.0347832824263615
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 67
+-------
+Iteration 1: obj = 317792.0 delta obj = 23.671278312147102
+Iteration 2: obj = 113460.38883629191 delta obj = 0.6429727971871794
+Iteration 3: obj = 68181.79981634526 delta obj = 0.39906957383406794
+Iteration 4: obj = 52556.4716761399 delta obj = 0.22917154111938662
+Iteration 5: obj = 51155.40833333335 delta obj = 0.02665824584724975
+Iteration 6: obj = 51155.40833333335 delta obj = 0.0
+
+Run 68
+-------
+Iteration 1: obj = 399736.0 delta obj = 6.814149334812919
+Iteration 2: obj = 102587.89194823016 delta obj = 0.743360888315713
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5392225584309499
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 69
+-------
+Iteration 1: obj = 398699.0 delta obj = 29.9523650430934
+Iteration 2: obj = 94364.52358992351 delta obj = 0.7633188857009335
+Iteration 3: obj = 47270.186387867645 delta obj = 0.4990682452519129
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 70
+-------
+Iteration 1: obj = 122235.0 delta obj = 8.489520518091398
+Iteration 2: obj = 54007.24205286369 delta obj = 0.5581687564702116
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 71
+-------
+Iteration 1: obj = 122235.0 delta obj = 1.3894834189086223
+Iteration 2: obj = 54007.24205286369 delta obj = 0.5581687564702116
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0528046538043711
+Iteration 4: obj = 51155.40833333335 delta obj = 0.0
+
+Run 72
+-------
+Iteration 1: obj = 147610.0 delta obj = 1.8855209020747064
+Iteration 2: obj = 51155.40833333335 delta obj = 0.653442122259106
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 73
+-------
+Iteration 1: obj = 399159.0 delta obj = 6.80286998002329
+Iteration 2: obj = 89575.07162940926 delta obj = 0.7755904999526272
+Iteration 3: obj = 47270.186387867645 delta obj = 0.47228413521750495
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 74
+-------
+Iteration 1: obj = 88948.0 delta obj = 5.905337023300967
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4248841083179684
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 75
+-------
+Iteration 1: obj = 174052.0 delta obj = 2.4024163948777644
+Iteration 2: obj = 51155.40833333335 delta obj = 0.7060912351864193
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 76
+-------
+Iteration 1: obj = 139890.0 delta obj = 1.734608217541025
+Iteration 2: obj = 51155.40833333335 delta obj = 0.6343169037577142
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 77
+-------
+Iteration 1: obj = 86728.0 delta obj = 0.6953828114296806
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4101627117732065
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 78
+-------
+Iteration 1: obj = 396161.0 delta obj = 6.7442642509776976
+Iteration 2: obj = 125736.0382102939 delta obj = 0.6826137903269279
+Iteration 3: obj = 40364.553389355744 delta obj = 0.6789738728538122
+Iteration 4: obj = 12881.05123614663 delta obj = 0.680882106835266
+Iteration 5: obj = 12881.05123614663 delta obj = 0.0
+
+Run 79
+-------
+Iteration 1: obj = 154334.0 delta obj = 10.98147551551616
+Iteration 2: obj = 51155.40833333335 delta obj = 0.66854090263109
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 80
+-------
+Iteration 1: obj = 399557.0 delta obj = 6.810650193552358
+Iteration 2: obj = 112747.70210333215 delta obj = 0.7178182284296555
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5807436825227268
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 81
+-------
+Iteration 1: obj = 82262.0 delta obj = 5.386280008665559
+Iteration 2: obj = 51155.40833333335 delta obj = 0.37814047393288097
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 82
+-------
+Iteration 1: obj = 251003.0 delta obj = 3.9066757196901127
+Iteration 2: obj = 79427.7256816665 delta obj = 0.683558659929696
+Iteration 3: obj = 51558.4947968031 delta obj = 0.3508753479428428
+Iteration 4: obj = 51155.40833333335 delta obj = 0.007818041722481463
+Iteration 5: obj = 51155.40833333335 delta obj = 0.0
+
+Run 83
+-------
+Iteration 1: obj = 99022.0 delta obj = 0.9357093067220486
+Iteration 2: obj = 51155.40833333335 delta obj = 0.48339350514700424
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 84
+-------
+Iteration 1: obj = 88948.0 delta obj = 0.7387799823707133
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4248841083179684
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 85
+-------
+Iteration 1: obj = 76190.0 delta obj = 0.4893830873861655
+Iteration 2: obj = 51155.40833333335 delta obj = 0.3285810692566827
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 86
+-------
+Iteration 1: obj = 399557.0 delta obj = 6.810650193552358
+Iteration 2: obj = 112747.70210333215 delta obj = 0.7178182284296555
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5807436825227268
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 87
+-------
+Iteration 1: obj = 401099.0 delta obj = 30.138685239791723
+Iteration 2: obj = 165445.8318759718 delta obj = 0.5875187126470727
+Iteration 3: obj = 122461.42585034009 delta obj = 0.2598095433305048
+Iteration 4: obj = 58605.92137952142 delta obj = 0.5214336190145
+Iteration 5: obj = 51063.47504567042 delta obj = 0.12869768372051466
+Iteration 6: obj = 51063.47504567042 delta obj = 0.0
+
+Run 88
+-------
+Iteration 1: obj = 103224.0 delta obj = 1.0214840432947028
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5044233091787438
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 89
+-------
+Iteration 1: obj = 109920.0 delta obj = 1.1487464098370825
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5346123696021348
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 90
+-------
+Iteration 1: obj = 63448.0 delta obj = 0.2402989648047963
+Iteration 2: obj = 51155.40833333335 delta obj = 0.19374277623670805
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 91
+-------
+Iteration 1: obj = 120260.0 delta obj = 1.350875575391262
+Iteration 2: obj = 51155.40833333335 delta obj = 0.5746265729807637
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 92
+-------
+Iteration 1: obj = 88948.0 delta obj = 0.7387799823707133
+Iteration 2: obj = 51155.40833333335 delta obj = 0.4248841083179684
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 93
+-------
+Iteration 1: obj = 86948.0 delta obj = 0.6996834319733866
+Iteration 2: obj = 51155.40833333335 delta obj = 0.41165514637101086
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 94
+-------
+Iteration 1: obj = 399557.0 delta obj = 6.810650193552358
+Iteration 2: obj = 112747.70210333215 delta obj = 0.7178182284296555
+Iteration 3: obj = 47270.186387867645 delta obj = 0.5807436825227268
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 95
+-------
+Iteration 1: obj = 355032.0 delta obj = 26.56234669758273
+Iteration 2: obj = 118960.79920436801 delta obj = 0.6649293607213771
+Iteration 3: obj = 88265.99198313373 delta obj = 0.2580245545299533
+Iteration 4: obj = 65976.20460973914 delta obj = 0.25252973282908125
+Iteration 5: obj = 51171.3833581349 delta obj = 0.22439637652964978
+Iteration 6: obj = 51063.47504567042 delta obj = 0.002108762854997696
+Iteration 7: obj = 51063.47504567042 delta obj = 0.0
+
+Run 96
+-------
+Iteration 1: obj = 86948.0 delta obj = 0.7027434956636811
+Iteration 2: obj = 51155.40833333335 delta obj = 0.41165514637101086
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 97
+-------
+Iteration 1: obj = 398851.0 delta obj = 6.796849111262102
+Iteration 2: obj = 91833.66445591177 delta obj = 0.7697544585423836
+Iteration 3: obj = 47270.186387867645 delta obj = 0.48526298424515674
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7230947872925079
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Run 98
+-------
+Iteration 1: obj = 63448.0 delta obj = 3.925684933381298
+Iteration 2: obj = 51155.40833333335 delta obj = 0.19374277623670805
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 99
+-------
+Iteration 1: obj = 92890.0 delta obj = 0.8158392832038445
+Iteration 2: obj = 51155.40833333335 delta obj = 0.44929046901352837
+Iteration 3: obj = 51155.40833333335 delta obj = 0.0
+
+Run 100
+-------
+Iteration 1: obj = 389377.0 delta obj = 6.611648752029964
+Iteration 2: obj = 94239.55429582215 delta obj = 0.7579734953635624
+Iteration 3: obj = 45479.439345699975 delta obj = 0.5174060437198377
+Iteration 4: obj = 13089.361016455287 delta obj = 0.7121916803556007
+Iteration 5: obj = 12881.05123614663 delta obj = 0.015914434634874845
+Iteration 6: obj = 12881.05123614663 delta obj = 0.0
+
+Best SSE: 12881.05123614663      Best Run: 6.0
+
+Best Jaccad: 0.15006947660954145      Best Rand: 0.8467096652847548      Best FM: 0.3429595054450343
